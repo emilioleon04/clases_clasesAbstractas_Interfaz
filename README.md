@@ -22,4 +22,5 @@ This repository contains examples and explanations about the use of abstract cla
 
 ## Author
 
-Technologies for Software Construction
+Emilio León
+
