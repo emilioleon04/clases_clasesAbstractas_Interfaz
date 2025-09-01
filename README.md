@@ -6,7 +6,7 @@ This repository contains examples and explanations about the use of abstract cla
 
 - Basic concepts of abstract classes
 - Implementation of interfaces
-- Practical examples in C#
+- Practical examples in Java
 - Comparison between abstract classes and interfaces
 
 ## Requirements
@@ -23,4 +23,5 @@ This repository contains examples and explanations about the use of abstract cla
 ## Author
 
 Emilio León
+
 
